@@ -8,4 +8,5 @@ const server = http.createServer((req, res)=> {
 // initial port
 const PORT = 5500;
 // listen to sever
-server.listen(PORT, ()=> console.log(`server is rinning on port ${PORT}`))
+server.listen(PORT, ()=> console.log(`server is rinning on port ${PORT}`)) 
+nxkx
